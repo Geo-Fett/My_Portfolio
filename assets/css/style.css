@@ -161,7 +161,7 @@ button:focus {
 .projectBanner {
   padding: 10px 0px;
   text-align: center;
-  background-color: rgb(252, 13, 65);
+  background-color: rgb(30, 144, 255);
   width: 100%;
   position: absolute;
   bottom: 20%;
@@ -177,7 +177,7 @@ button:focus {
   padding: 10px;
   color: white;
   border: none;
-  background-color: rgb(61, 61, 61);
+  background-color: rgb(220, 220, 220);
   cursor: pointer;
   position: relative;
   left: 125px;
@@ -201,12 +201,12 @@ button:focus {
   transform: translate(50%, 0%);
   ) left: 100%;
   margin-top: 10px;
-  background-color: rgb(252, 13, 65);
+  background-color: rgb(30, 144, 255);
 }
 
 .button-red:hover {
   text-decoration: none;
-  border-bottom: 0px solid red;
+  border-bottom: 0px solid dodgerblue;
 }
 
 .contactForm {
@@ -224,5 +224,5 @@ textarea {
 }
 
 #redButtonBottom {
-  background-color: rgb(252, 13, 65);
+  background-color: rgb(30, 144, 255);
 }
