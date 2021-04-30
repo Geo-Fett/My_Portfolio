@@ -62,8 +62,6 @@ main {
 
 html {
   background: url('../images/world.gif') no-repeat center center fixed;
-  max-width: 50%;
-  max-height: 50%;
   background-size: cover;
   /* background-image: url('../images/world.gif');
   background-repeat: no-repeat;
