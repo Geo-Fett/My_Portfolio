@@ -62,7 +62,7 @@ main {
 
 html {
   background: url('../images/cpuuu.gif') no-repeat center center fixed;
-  background-size: auto;
+  background-size: cover;
   /* background-image: url('../images/world.gif');
   background-repeat: no-repeat;
   background-position: center;
