@@ -142,15 +142,15 @@ button:focus {
   height: 588px;
 }
 
-.bg-TBD{
-  background-image: url('../images/data.jpg');
+.bg-TBD1{
+  background-image: url('../images/chatstack.gif');
 }
 
-.bg-TBD{
+.bg-TBD2{
   background-image: url('../images/example.png');
 }
 
-.bg-snake2{
+.bg-snake{
   background-image: url('../images/example.png');
 }
 
