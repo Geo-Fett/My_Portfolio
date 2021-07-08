@@ -162,7 +162,7 @@ button:focus {
   background-color: rgb(30, 144, 255);
   width: 100%;
   position: absolute;
-  bottom: 8%;
+  bottom: 9%;
   left: 50%;
   transform: translate(-50%, 50%);
 }
