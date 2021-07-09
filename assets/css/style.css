@@ -159,7 +159,7 @@ button:focus {
 .projectBanner {
   padding: 10px 0px;
   text-align: center;
-  background-color: rgb(30, 144, 255);
+  background-color: rgb(240, 248, 255);
   width: 100%;
   position: absolute;
   bottom: 13%;
@@ -175,7 +175,7 @@ button:focus {
   padding: 10px;
   color: white;
   border: none;
-  background-color: rgb(220, 220, 220);
+  background-color: rgb(176, 196, 222);
   cursor: pointer;
   position: relative;
   left: 125px;
@@ -199,7 +199,7 @@ button:focus {
   transform: translate(50%, 0%);
   ) left: 100%;
   margin-top: 10px;
-  background-color: rgb(30, 144, 255);
+  background-color: rgb(176, 196, 222);
 }
 
 .button-red:hover {
@@ -222,5 +222,5 @@ textarea {
 }
 
 #redButtonBottom {
-  background-color: rgb(30, 144, 255);
+  background-color: rgb(176, 196, 222);
 }
