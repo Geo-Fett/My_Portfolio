@@ -159,7 +159,7 @@ button:focus {
 .projectBanner {
   padding: 10px 0px;
   text-align: center;
-  background-color: rgb(176, 196, 222);
+  background-color: rgb(151, 175, 219);
   width: 100%;
   position: absolute;
   bottom: 13%;
@@ -175,7 +175,7 @@ button:focus {
   padding: 10px;
   color: white;
   border: none;
-  background-color: rgb(240, 248, 255);
+  background-color: rgb(210, 226, 255);
   cursor: pointer;
   position: relative;
   left: 125px;
